@@ -1,5 +1,5 @@
 class Meat < ApplicationRecord
-    def stanrdard_weight
+    def standard_weight
         weight * 2.2
     end
 end
